@@ -20,3 +20,35 @@ p {
     }
 
 
+
+
+
+
+    
+    body {
+        font-family: sans-serif, Helvetica, Arial;
+      }
+      
+      h1 {
+        color: #002761;
+        font-size: 2em;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        border-bottom: 4px solid #292929;
+      }
+      
+      h2 {
+        font-size: 1.5em;
+      }
+      
+      .job-title {
+        color: #141414;
+        font-weight: bold;
+      }
+      
+      a:link, a:visited {
+        color: #8c00ff;
+      }
+      
+      a:hover {
+        text-decoration: none;
+      }
