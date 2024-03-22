@@ -4,12 +4,12 @@ p {
 
 #would-you 
     {
-    color: grey;
+    color: black;
     }
 
 .big
     {
-        border: 2px green solid;
+        border: 2px rgb(0, 0, 0) solid;
 
     }
 
