@@ -97,7 +97,7 @@
 }
 .fading-gallery img:hover
 {
-opacity:1;
+opacity:5;
 width: 150px;
 height: 150px;
 transition:1s ease-in;
