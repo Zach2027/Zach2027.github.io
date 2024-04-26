@@ -52,7 +52,6 @@ for (let i = 1; i <= arr.length; i++) {
 
 
 console.log("Task 8")
-let cube = 3
 let array = [];
 for (let p = 1; p <= 10; p++) {
     array.push(p ** 3)
