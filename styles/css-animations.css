@@ -92,7 +92,7 @@
     width: 100px;
     height: 100px;
     object-fit: cover;
-    opacity:0.05;
+    opacity:0.1;
     transition: 0.7s ease-out ;
 }
 .fading-gallery img:hover
