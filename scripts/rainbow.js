@@ -11,4 +11,4 @@ for (let i = 0; i < rainbowray.length; i++){
 
     ul.appendChild(li);
 }
-document.body.appendChild(ul)
+document.body.appendChild(ul);
