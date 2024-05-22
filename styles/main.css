@@ -3,18 +3,17 @@ p {
 }
 
 #would-you {
-  color: black;
+  color: #000000;
 }
 
 .big {
-  border: 2px rgb(0, 0, 0) solid;
+  font-family: sans-serif, Arial, Helvetica;
 
 }
 
-.small {
-  font-size: xx-large;
 
-}
+
+
 
 
 
@@ -28,9 +27,9 @@ body {
 
 h1 {
   color: rgb(0, 0, 0);
-  font-size: 2em;
+  font-size: 3em;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  border-bottom: 10px purple solid;
+  border-bottom: 5px black solid;
 
 }
 
@@ -46,7 +45,7 @@ h2 {
 
 a:link,
 a:visited {
-  color: #8c00ff;
+  color: #0051ff;
 }
 
 a:hover {
