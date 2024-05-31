@@ -23,6 +23,7 @@ p {
 
 body {
   font-family: sans-serif, Helvetica, Arial;
+  padding-bottom: 30px;
 }
 
 h1 {
@@ -43,14 +44,50 @@ h2 {
   font-weight: bold;
 }
 
-a:link,
-a:visited {
-  color: #0051ff;
+.home{
+  color: rgb(0, 0, 0);
+  margin:10px;
 }
 
-a:hover {
-  text-decoration: none;
+.home:hover {
+  color: rgb(206, 0, 0);
+  background-color: rgb(0, 0, 0);
+
 }
+
+
+.gallery{
+  color: rgb(0, 0, 0);
+  margin:10px;
+}
+
+.gallery:hover {
+  color: rgb(72, 0, 206);
+  background-color: rgb(0, 0, 0);
+
+}
+
+.exercise{
+  color: rgb(0, 0, 0);
+  margin:10px;
+}
+
+.exercise:hover {
+  color: rgb(0, 175, 108);
+  background-color: rgb(0, 0, 0);
+
+}
+.diet{
+  color: rgb(0, 0, 0);
+  margin:10px;
+}
+
+.diet:hover {
+  color: rgb(150, 0, 155);
+  background-color: rgb(0, 0, 0);
+
+}
+
 
 
 #email {
