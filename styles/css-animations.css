@@ -1,13 +1,13 @@
 
-/* Task 2: Animated Navigation Menu */
-.menu ul {
+
+.small {
     list-style: none;
     padding: 0;
     display: flex;
     gap: 10px;
 }
 
-.menu {
+.big {
     text-decoration: none;
     border-radius: 10%;
     padding: 4px;
@@ -28,14 +28,15 @@
     width: 100px;
     height: 100px;
     object-fit: cover;
-    opacity:0.1;
+    opacity:0.3;
     transition: 0.7s ease-out ;
 }
 .fading-gallery img:hover
 {
-opacity:5;
+opacity:1;
 width: 70%;
 height: 70%;
 transition:2s ease-in;
 
 }
+
