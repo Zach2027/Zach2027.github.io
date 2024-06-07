@@ -95,7 +95,7 @@ h2 {
 }
 
 .spaz {
-  animation: flash .1s ease-in-out infinite alternate;
+  animation: flash .01s ease-in-out infinite alternate;
   
   }
   
