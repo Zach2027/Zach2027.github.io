@@ -103,28 +103,28 @@ h2 {
   @keyframes flash
   {
       0%{
-          background-color: white;
+          background-color: rgb(255, 0, 0);
       }
       20%{
-          background-color: #000000;
+          background-color: #ff00d4;
       }
       30%{
-          background-color: white;
+          background-color: rgb(255, 208, 0);
       }
       40%{
-          background-color: #000000;
+          background-color: #1900ff;
       }50%{
-          background-color: white;
+          background-color: rgb(208, 255, 0);
       }
       60%{
-          background-color: #000000;
+          background-color: #00aeff;
       }70%{
-          background-color: white;
+          background-color: rgb(0, 255, 42);
       }
       80%{
           background-color: #000000;
       }90%{
-          background-color: rgb(255, 0, 191);
+          background-color: rgb(255, 255, 255);
       }
       
   }
